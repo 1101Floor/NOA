@@ -1,4 +1,3 @@
-# NOA
 %% 1. Map
 xRange = [0, 100]; 
 yRange = [0, 100]; 
